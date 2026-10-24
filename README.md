@@ -2,15 +2,6 @@
 
 This project is a **Sales and Technical Service System** that includes both a **Desktop Application** and a **Web Application**. The system is built using **.NET** technologies, **DevExpress** controls, and **ASP.NET Core** for the web part. It aims to provide a solution for businesses to manage their sales, technical services, and customer support efficiently.
 
----
-
-## 🔗 Project Repositories
-
-- 🌐 **Web Application (ASP.NET Framework)**:  
-  [https://github.com/ParanovaFactory/Sales_And_Technical_Service_Web_Page](https://github.com/ParanovaFactory/Sales_And_Technical_Service_Web_Page)
-
----
-
 ## 🚀 Features
 
 ### Desktop Application (WinForms)
